@@ -1,4 +1,4 @@
-# heart_disease-classification
+# ML_heart_disease-classification
 
 PROBLEM DEFINITION : given a patient's clinical parameters, can we predict if one has heart disease
 DATA: Cleveland data from UCI ML repository
